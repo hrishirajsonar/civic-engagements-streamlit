@@ -13,14 +13,14 @@ venv/
 # --- Streamlit cache ---
 .streamlit/
 
-# --- OS crap ---
+# --- OS files ---
 .DS_Store
 Thumbs.db
 
 # --- VS Code ---
 .vscode/
 
-# --- Data files (large local datasets you DON'T want on GitHub) ---
+# --- Data files ---
 data/**/*.csv
 data/**/*.gpkg
 data/**/*.shp
@@ -30,8 +30,6 @@ data/**/*.prj
 data/**/*.sbn
 data/**/*.sbx
 data/**/*.cpg
-data/*.csv
-data/*.gpkg
 
 # --- Logs ---
 *.log
