@@ -1,0 +1,37 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# --- Virtual environment ---
+venv/
+.env/
+*.env
+
+# --- Streamlit cache ---
+.streamlit/
+
+# --- OS crap ---
+.DS_Store
+Thumbs.db
+
+# --- VS Code ---
+.vscode/
+
+# --- Data files (large local datasets you DON'T want on GitHub) ---
+data/**/*.csv
+data/**/*.gpkg
+data/**/*.shp
+data/**/*.dbf
+data/**/*.shx
+data/**/*.prj
+data/**/*.sbn
+data/**/*.sbx
+data/**/*.cpg
+data/*.csv
+data/*.gpkg
+
+# --- Logs ---
+*.log

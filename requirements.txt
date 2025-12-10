@@ -1,0 +1,11 @@
+streamlit>=1.20
+pandas
+geopandas
+shapely
+pyproj
+folium
+streamlit-folium
+branca
+plotly
+kaleido
+statsmodels
