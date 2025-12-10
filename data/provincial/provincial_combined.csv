@@ -1,0 +1,258 @@
+EventNameEnglish,EventNameFrench,PollingDate,ElectoralDistrictNumber,ElectoralDistrictNameEnglish,ElectoralDistrictNameFrench,NumberOfCandidates,NumberOfNamesRegistered,NumberOfNamesRevised,TotalNumberOfNames,RuralPollingPlaces,UrbanPollingPlaces,AdvancePollingPlaces,ValidBallotsFromBoxes,RejectedBallotsFromBoxes,UnmarkedBallotsFromBoxes,DeclinedBallots,VoterTurnoutTotal,VoterTurnoutPercentageOfList,year
+2015 - 2017 By Elections,élection partielles de 2015 - 2017,2015-Feb-05,88,Sudbury,Sudbury,10,64596,760,65356,0,227,12,25795,80,30,33,25938,0.3968725136177244,2018
+2015 - 2017 By Elections,élection partielles de 2015 - 2017,2015-Sep-03,86,Simcoe North,Simcoe North,8,96138,910,97048,0,263,14,39301,97,25,48,39471,0.4067162641167257,2018
+2015 - 2017 By Elections,élection partielles de 2015 - 2017,2016-Feb-11,100,Whitby-Oshawa,Whitby-Oshawa,10,111105,950,112055,0,70,6,32226,17,18,28,32289,0.2881531390834857,2018
+2015 - 2017 By Elections,élection partielles de 2015 - 2017,2016-Sep-01,83,Scarborough-Rouge River,Scarborough-Rouge River,11,88884,1234,90118,0,231,6,25113,84,30,16,25243,0.2801105217603586,2018
+2015 - 2017 By Elections,élection partielles de 2015 - 2017,2016-Nov-17,55,Niagara West-Glanbrook,Niagara West-Glanbrook,9,101560,516,102076,0,229,7,32718,93,35,54,32900,0.3223088679023472,2018
+2015 - 2017 By Elections,élection partielles de 2015 - 2017,2016-Nov-17,65,Ottawa-Vanier,Ottawa-Vanier,11,81556,346,81902,0,253,12,30454,105,31,17,30607,0.3737027178823471,2018
+2015 - 2017 By-Elections,élection partielles de 2015 - 2017,2017-Jun-01,79,Sault Ste. Marie,Sault Ste. Marie,7,59266,-322,58944,0,166,8,25754,73,19,8,25854,0.4386197068403908,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,1,Ajax,Ajax,7,87146,3060,90206,0,38,4,48860,99,152,170,49281,0.5463162095647739,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,2,Algoma-Manitoulin,Algoma-Manitoulin,6,51566,3978,55544,0,94,17,29211,114,65,91,29481,0.530768399827164,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,3,Aurora-Oak Ridges-Richmond Hill,Aurora-Oak Ridges-Richmond Hill,9,78909,3070,81979,0,49,5,44998,105,209,132,45444,0.5543370863269861,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,4,Barrie-Innisfil,Barrie-Innisfil,8,79348,3209,82557,0,31,5,44272,121,143,270,44806,0.542728054556246,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,5,Barrie-Springwater-Oro-Medonte,Barrie-Springwater-Oro-Medonte,8,77601,3350,80951,0,62,6,45689,68,140,289,46186,0.5705426739632617,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,6,Bay of Quinte,Bay of Quinte,7,85564,4760,90324,0,79,9,50442,116,151,287,50996,0.5645896993047252,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,7,Beaches-East York,Beaches-East York,11,78737,3649,82386,0,38,5,49914,128,193,149,50384,0.6115602165416454,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,8,Brampton Centre,Brampton Centre,7,65173,2259,67432,0,43,5,33598,112,150,89,33949,0.5034553327796891,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,9,Brampton East,Brampton East,6,70755,4247,75002,0,26,4,38495,106,124,26,38751,0.5166662222340737,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,10,Brampton North,Brampton North,5,74527,3082,77609,0,29,4,39624,85,204,118,40031,0.5158035794817611,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,11,Brampton South,Brampton South,7,74114,3165,77279,0,46,4,38169,100,201,128,38598,0.4994629847694716,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,12,Brampton West,Brampton West,6,76018,4178,80196,0,22,4,37961,99,112,57,38229,0.4766945982343259,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,13,Brantford-Brant,Brantford-Brant,9,99576,3285,102861,0,53,6,58188,155,203,259,58805,0.5716938392588055,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,14,Bruce-Grey-Owen Sound,Bruce-Grey-Owen Sound,8,80204,4840,85044,0,89,11,49128,140,190,197,49655,0.583874229810451,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,15,Burlington,Burlington,7,98021,2434,100455,0,85,5,63055,155,251,276,63737,0.6344831018864168,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,16,Cambridge,Cambridge,5,84587,3793,88380,0,71,5,48131,123,185,323,48762,0.5517311608961303,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,17,Carleton,Carleton,9,76974,4927,81901,0,33,5,50258,128,217,176,50779,0.6200046397479884,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,18,Chatham-Kent-Leamington,Chatham-Kent-Leamington,5,80140,2659,82799,0,87,9,46373,176,238,233,47020,0.5678812546045242,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,19,Davenport,Davenport,9,77300,5624,82924,0,47,5,45819,159,228,83,46289,0.5582099271622208,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,20,Don Valley East,Don Valley East,6,64183,2009,66192,0,62,5,36217,107,159,71,36554,0.5522419627749576,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,21,Don Valley North,Don Valley North,6,73257,2954,76211,0,81,5,40607,135,166,102,41010,0.5381112962695673,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,22,Don Valley West,Don Valley West,6,71770,3621,75391,0,48,5,45777,78,170,167,46192,0.6126991285431947,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,23,Dufferin-Caledon,Dufferin-Caledon,7,95241,4672,99913,0,48,8,55956,128,256,178,56518,0.5656721347572387,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,24,Durham,Durham,5,97716,4755,102471,0,55,5,60807,93,175,341,61416,0.5993500600169804,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,25,Eglinton-Lawrence,Eglinton-Lawrence,6,80536,2666,83202,0,72,5,49527,168,167,149,50011,0.6010793009783418,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,26,Elgin-Middlesex-London,Elgin-Middlesex-London,7,86171,3465,89636,0,63,11,52767,113,160,251,53291,0.5945267526440269,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,27,Essex,Essex,4,91804,5969,97773,0,51,8,54503,80,147,136,54866,0.5611569656244566,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,28,Etobicoke Centre,Etobicoke Centre,7,90032,2683,92715,0,77,5,56825,230,195,148,57398,0.6190799762713692,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,29,Etobicoke-Lakeshore,Etobicoke-Lakeshore,6,96769,4837,101606,0,67,5,58993,140,215,199,59547,0.5860579099659468,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,30,Etobicoke North,Etobicoke North,5,70353,2227,72580,0,36,5,36306,155,208,44,36713,0.5058280518049049,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,31,Flamborough-Glanbrook,Flamborough-Glanbrook,7,83068,2959,86027,0,50,6,51588,113,205,213,52119,0.6058446766712776,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,32,Glengarry-Prescott-Russell,Glengarry-Prescott-Russell,6,85106,3929,89035,0,92,9,48690,329,252,70,49341,0.5541753243106643,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,33,Guelph,Guelph,8,100490,5991,106481,0,75,5,64577,139,170,196,65082,0.6112076332866896,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,34,Haldimand-Norfolk,Haldimand-Norfolk,9,82392,3950,86342,0,56,8,50593,86,170,268,51117,0.5920293715688772,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,35,Haliburton-Kawartha Lakes-Brock,Haliburton-Kawartha Lakes-Brock,7,91694,5138,96832,0,86,13,57143,133,216,277,57769,0.596589970257766,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,36,Hamilton Centre,Hamilton Centre,8,71645,4027,75672,0,50,5,36575,98,181,157,37011,0.4890976847446875,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,37,Hamilton East-Stoney Creek,Hamilton East-Stoney Creek,7,81920,2168,84088,0,43,5,44020,172,280,145,44617,0.5305988963942536,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,38,Hamilton Mountain,Hamilton Mountain,6,78288,2290,80578,0,37,5,44717,130,230,178,45255,0.5616297252351758,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,39,Hamilton West-Ancaster-Dundas,Hamilton West-Ancaster-Dundas,7,86206,3576,89782,0,82,5,55390,112,221,172,55895,0.62256354280368,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,40,Hastings-Lennox and Addington,Hastings-Lennox and Addington,6,71937,4171,76108,0,79,14,44521,163,136,162,44982,0.5910285383928102,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,41,Humber River-Black Creek,Humber River-Black Creek,7,63605,2684,66289,0,45,5,30929,192,180,25,31326,0.4725670925794626,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,42,Huron-Bruce,Huron-Bruce,6,78710,5447,84157,0,91,9,52802,122,240,284,53448,0.6350986846013997,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,43,Kanata-Carleton,Kanata-Carleton,7,83167,3282,86449,0,48,5,53453,86,164,168,53871,0.6231535356105912,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,44,Kenora-Rainy River,Kenora-Rainy River,4,36327,1115,37442,0,99,7,20071,66,23,104,20264,0.5412104054270604,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,45,King-Vaughan,King-Vaughan,7,89824,3679,93503,0,49,4,51461,146,225,83,51915,0.5552228270750671,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,46,Kingston and the Islands,Kingston and the Islands,6,93035,4985,98020,0,82,6,55644,107,202,201,56154,0.5728830850846764,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,47,Kitchener Centre,Kitchener Centre,7,79894,2551,82445,0,61,5,47280,122,197,438,48037,0.5826551034022681,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,48,Kitchener-Conestoga,Kitchener-Conestoga,6,70432,2663,73095,0,44,6,42974,119,141,571,43805,0.5992885970312606,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,49,Kitchener South-Hespeler,Kitchener South-Hespeler,6,73848,3448,77296,0,47,5,42483,102,127,432,43144,0.55816601117781,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,50,Lambton-Kent-Middlesex,Lambton-Kent-Middlesex,6,80141,3852,83993,0,68,9,50424,146,269,207,51046,0.6077411212839166,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,51,Lanark-Frontenac-Kingston,Lanark-Frontenac-Kingston,6,76223,5702,81925,0,78,13,50343,151,149,173,50816,0.6202746414403417,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,52,Leeds-Grenville-Thousand Islands and Rideau Lakes,Leeds-Grenville-Thousand Islands and Rideau Lakes,5,78398,4113,82511,0,86,10,48969,166,146,404,49685,0.6021621359576298,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,53,London-Fanshawe,London-Fanshawe,7,88707,3721,92428,0,44,5,45391,96,193,214,45894,0.4965378456744709,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,54,London North Centre,London North Centre,7,94056,5432,99488,0,83,5,54113,137,169,249,54668,0.5494934062399485,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,55,London West,London West,8,95329,3420,98749,0,63,5,58996,116,228,461,59801,0.6055858793506769,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,56,Markham-Stouffville,Markham-Stouffville,6,88514,3928,92442,0,42,5,53846,148,211,200,54405,0.5885311871227364,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,57,Markham-Thornhill,Markham-Thornhill,6,70373,2210,72583,0,37,5,37548,91,174,81,37894,0.5220781725748453,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,58,Markham-Unionville,Markham-Unionville,6,82983,3688,86671,0,41,4,46940,97,279,129,47445,0.5474149369454604,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,59,Milton,Milton,6,75025,3739,78764,0,36,5,43789,65,175,163,44192,0.5610685084556396,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,60,Mississauga Centre,Mississauga Centre,7,85633,3129,88762,0,100,5,43710,207,196,83,44196,0.497915774768482,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,61,Mississauga East-Cooksville,Mississauga East-Cooksville,7,83588,1602,85190,0,63,4,43405,160,183,104,43852,0.5147552529639629,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,62,Mississauga-Erin Mills,Mississauga-Erin Mills,7,82903,3418,86321,0,43,4,47178,147,181,81,47587,0.551279526418832,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,63,Mississauga-Lakeshore,Mississauga-Lakeshore,7,87632,2837,90469,0,56,5,53199,126,208,140,53673,0.5932750444903779,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,64,Mississauga-Malton,Mississauga-Malton,7,75527,2867,78394,0,28,4,37611,123,142,47,37923,0.4837487562823685,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,65,Mississauga-Streetsville,Mississauga-Streetsville,6,84527,2698,87225,0,29,5,47964,97,182,189,48432,0.5552536543422184,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,66,Nepean,Nepean,7,87110,3877,90987,0,43,5,52957,103,173,205,53438,0.587314671326673,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,67,Newmarket-Aurora,Newmarket-Aurora,9,84996,4080,89076,0,55,5,52013,166,165,187,52531,0.5897323633750954,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,68,Niagara Centre,Niagara Centre,8,85712,2575,88287,0,60,5,48874,186,267,227,49554,0.5612830881103673,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,69,Niagara Falls,Niagara Falls,6,106851,3184,110035,0,84,5,59381,157,250,244,60032,0.5455718634979779,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,70,Niagara West,Niagara West,6,72066,1847,73913,0,60,6,46190,82,168,329,46769,0.6327574310337829,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,71,Nickel Belt,Nickel Belt,8,63713,2766,66479,0,44,13,36467,125,145,105,36842,0.5541900449766091,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,72,Nipissing,Nipissing,6,58696,2603,61299,0,69,12,35243,120,206,134,35703,0.5824401703127294,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,73,Northumberland-Peterborough South,Northumberland-Peterborough South,7,89572,4932,94504,0,105,8,60423,123,211,331,61088,0.6464065013121137,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,74,Oakville,Oakville,5,89437,3065,92502,0,75,4,56871,81,647,182,57781,0.6246459536010032,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,75,Oakville North-Burlington,Oakville North-Burlington,6,88131,4381,92512,0,36,5,55351,74,175,93,55693,0.6020083881010031,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,76,Orléans,Orléans,6,96494,6327,102821,0,52,5,63950,155,229,205,64539,0.6276830608533276,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,77,Oshawa,Oshawa,6,97448,2806,100254,0,47,5,54143,125,220,231,54719,0.5458036587068845,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,78,Ottawa Centre,Ottawa Centre,8,98902,7306,106208,0,117,5,64403,151,223,227,65004,0.6120442904489304,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,79,Ottawa South,Ottawa South,6,89871,3296,93167,0,66,5,52416,164,282,165,53027,0.5691607543443493,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,80,Ottawa-Vanier,Ottawa-Vanier,7,90269,4029,94298,0,110,5,47958,179,231,171,48539,0.5147405035101486,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,81,Ottawa West-Nepean,Ottawa West-Nepean,6,85701,3874,89575,0,75,5,50545,123,241,188,51097,0.5704381802958414,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,82,Oxford,Oxford,8,86636,2961,89597,0,63,8,52311,160,280,331,53082,0.5924528723059923,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,83,Parkdale-High Park,Parkdale-High Park,6,82582,5549,88131,0,73,5,54549,105,174,195,55023,0.6243319603771658,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,84,Parry Sound-Muskoka,Parry Sound-Muskoka,7,75804,4376,80180,0,92,10,47143,93,119,124,47479,0.5921551509104515,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,85,Perth-Wellington,Perth-Wellington,8,74775,3963,78738,0,50,9,46843,109,172,392,47516,0.6034697350707409,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,86,Peterborough-Kawartha,Peterborough-Kawartha,6,93260,4810,98070,0,96,8,60790,177,251,316,61534,0.6274497807688385,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,87,Pickering-Uxbridge,Pickering-Uxbridge,9,87703,3451,91154,0,51,5,53193,98,185,211,53687,0.5889703139741536,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,88,Renfrew-Nipissing-Pembroke,Renfrew-Nipissing-Pembroke,6,77112,4438,81550,0,92,10,48199,128,164,225,48716,0.597375843041079,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,89,Richmond Hill,Richmond Hill,5,81325,2642,83967,0,62,5,43371,81,211,152,43815,0.5218121404837615,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,90,St. Catharines,St. Catharines,8,87550,2374,89924,0,54,6,51650,137,202,217,52206,0.5805569147279925,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,91,Sarnia-Lambton,Sarnia-Lambton,7,82020,2276,84296,0,70,8,50830,111,167,219,51327,0.6088901015469298,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,92,Sault Ste. Marie,Sault Ste. Marie,6,58541,1004,59545,0,57,5,32117,122,113,94,32446,0.5448988160214963,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,93,Scarborough-Agincourt,Scarborough-Agincourt,9,70659,1899,72558,0,46,4,36871,106,202,77,37256,0.5134650899969679,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,94,Scarborough Centre,Scarborough Centre,6,72896,2597,75493,0,81,5,39704,187,191,69,40151,0.5318506351582265,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,95,Scarborough-Guildwood,Scarborough-Guildwood,9,65853,2809,68662,0,64,5,35905,204,137,96,36342,0.5292883982406571,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,96,Scarborough North,Scarborough North,5,65811,1964,67775,0,40,5,34113,71,162,55,34401,0.507576540022132,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,97,Scarborough-Rouge Park,Scarborough-Rouge Park,6,73675,2638,76313,0,37,5,42015,147,141,84,42387,0.5554361642184162,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,98,Scarborough Southwest,Scarborough Southwest,8,74428,3901,78329,0,58,5,43443,161,192,98,43894,0.5603799359113482,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,99,Simcoe-Grey,Simcoe-Grey,5,102807,5349,108156,0,51,9,60963,110,262,403,61738,0.5708236251340656,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,100,Simcoe North,Simcoe North,5,89775,2675,92450,0,67,9,53789,119,208,319,54435,0.5888047593293672,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,101,Spadina-Fort York,Spadina-Fort York,7,85269,8353,93622,0,116,5,49731,142,132,141,50146,0.5356219691952746,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,102,Stormont-Dundas-South Glengarry,Stormont-Dundas-South Glengarry,5,77750,3592,81342,0,80,7,43538,151,141,179,44009,0.5410366108529417,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,103,Sudbury,Sudbury,8,65190,2220,67410,0,90,5,36167,151,132,99,36549,0.5421895861148197,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,104,Thornhill,Thornhill,7,82706,2273,84979,0,67,4,47259,146,175,144,47724,0.5615975711646406,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,105,Thunder Bay-Atikokan,Thunder Bay-Atikokan,6,58364,1632,59996,0,66,7,32525,97,121,99,32842,0.5474031602106807,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,106,Thunder Bay-Superior North,Thunder Bay-Superior North,7,54229,2048,56277,0,78,11,30035,103,90,71,30299,0.5383904614673845,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,107,Timiskaming-Cochrane,Timiskaming-Cochrane,6,50124,2198,52322,0,78,11,27461,109,121,84,27775,0.5308474446695463,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,108,Timmins,Timmins,6,31870,997,32867,0,32,5,15633,54,51,76,15814,0.4811513067818784,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,109,Toronto Centre,Toronto Centre,10,75818,6226,82044,0,78,6,44148,160,100,144,44552,0.5430256935303008,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,110,Toronto-Danforth,Toronto-Danforth,8,80149,3923,84072,0,42,5,51269,138,156,209,51772,0.6158055000475782,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,111,Toronto-St. Paul's,Toronto-St. Paul's,6,82141,5075,87216,0,46,5,52402,117,222,208,52949,0.607101907906806,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,112,University-Rosedale,University-Rosedale,9,82260,5837,88097,0,73,5,49412,121,190,169,49892,0.5663302950157213,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,113,Vaughan-Woodbridge,Vaughan-Woodbridge,5,75146,2280,77426,0,33,5,42946,124,192,62,43324,0.5595536383127114,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,114,Waterloo,Waterloo,5,83229,5351,88580,0,63,5,54044,95,158,442,54739,0.6179611650485436,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,115,Wellington-Halton Hills,Wellington-Halton Hills,5,90666,6221,96887,0,49,8,58624,96,196,294,59210,0.6111242994416175,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,116,Whitby,Whitby,6,94107,2772,96879,0,52,4,57796,123,241,282,58442,0.6032473497868475,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,117,Willowdale,Willowdale,6,77790,3523,81313,0,114,5,40646,165,141,127,41079,0.5051959711239284,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,118,Windsor-Tecumseh,Windsor-Tecumseh,5,89306,1963,91269,0,67,5,43183,99,199,170,43651,0.478267538813836,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,119,Windsor West,Windsor West,5,88498,2200,90698,0,68,4,38899,110,129,137,39275,0.4330304968136011,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,120,York Centre,York Centre,7,67725,2795,70520,0,76,5,36761,242,195,119,37317,0.5291690300623936,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,121,York-Simcoe,York-Simcoe,6,80694,3143,83837,0,46,6,45491,114,209,230,46044,0.5492085833223994,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,122,York South-Weston,York South-Weston,5,73091,3681,76772,0,69,5,37298,194,190,65,37747,0.4916766529463867,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,123,Kiiwetinoong,Kiiwetinoong,5,13159,1167,14326,0,43,9,6477,56,10,18,6561,0.4579785006282283,2018
+2018 General Election,élection générale de 2018,2018-Jun-07,124,Mushkegowuk-James Bay,Mushkegowuk-James Bay,7,16417,1018,17435,0,25,5,9324,59,34,6,9423,0.540464582735876,2018
+2020 Provincial By-elections Orléans (76) and Ottawa-Vanier,Élections partielles provinciale Orléans (76) et Ottawa-Vani,2020-Feb-27,76,Orléans,Orléans,8,110802,9,110811,0,52,5,25502,42,29,8,25581,0.2308525326907978,2022
+2020 Provincial By-elections Orléans (76) and Ottawa-Vanier,Élections partielles provinciale Orléans (76) et Ottawa-Vani,2020-Feb-27,80,Ottawa-Vanier,Ottawa-Vanier,8,101108,-392,100716,0,108,5,19923,46,54,10,20033,0.1989058342269351,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,1,Ajax,Ajax,8,94295,540,94835,0,37,4,37687,120,74,15,37896,0.3995993040544102,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,2,Algoma-Manitoulin,Algoma-Manitoulin,6,57522,554,58076,0,92,17,24499,116,39,9,24663,0.4246676768372477,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,3,Aurora-Oak Ridges-Richmond Hill,Aurora-Oak Ridges-Richmond Hill,7,85219,490,85709,0,49,5,32559,108,54,14,32735,0.3819318857996243,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,4,Barrie-Innisfil,Barrie-Innisfil,8,92471,-334,92137,0,35,5,36272,105,70,53,36500,0.3961492125856062,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,5,Barrie-Springwater-Oro-Medonte,Barrie-Springwater-Oro-Medonte,6,84642,308,84950,0,59,8,39500,118,65,27,39710,0.4674514420247204,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,6,Bay of Quinte,Bay of Quinte,6,95164,-312,94852,0,78,9,43366,80,60,39,43545,0.4590836250158141,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,7,Beaches-East York,Beaches-East York,9,82912,-633,82279,0,36,5,40648,71,39,33,40791,0.4957644113321746,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,8,Brampton Centre,Brampton Centre,5,66997,96,67093,0,42,5,24463,75,47,17,24602,0.3666850491109355,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,9,Brampton East,Brampton East,6,79559,904,80463,0,26,4,29036,73,79,61,29249,0.3635086934367348,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,10,Brampton North,Brampton North,6,78501,85,78586,0,30,4,30025,81,106,16,30228,0.3846486651566436,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,11,Brampton South,Brampton South,6,79835,360,80195,0,47,4,28602,47,46,19,28714,0.3580522476463619,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,12,Brampton West,Brampton West,6,89485,1132,90617,0,24,4,30836,40,84,23,30983,0.3419115618482183,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,13,Brantford-Brant,Brantford-Brant,9,111276,928,112204,0,56,6,46953,128,72,34,47187,0.4205465045809418,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,14,Bruce-Grey-Owen Sound,Bruce-Grey-Owen Sound,9,90457,-754,89703,0,86,11,41811,129,146,94,42180,0.4702183873449048,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,15,Burlington,Burlington,6,102230,19,102249,0,84,5,52520,131,94,44,52789,0.5162788878130837,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,16,Cambridge,Cambridge,5,91954,-346,91608,0,64,5,39401,84,60,46,39591,0.4321784123657322,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,17,Carleton,Carleton,7,93064,2168,95232,0,38,6,46306,61,50,46,46463,0.4878927251344086,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,18,Chatham-Kent-Leamington,Chatham-Kent-Leamington,5,85468,1301,86769,0,83,9,36870,1791,150,123,38934,0.4487086401825536,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,19,Davenport,Davenport,10,83796,-1249,82547,0,46,5,35473,143,109,20,35745,0.4330260336535549,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,20,Don Valley East,Don Valley East,10,66416,425,66841,0,66,6,28076,87,138,22,28323,0.423736927933454,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,21,Don Valley North,Don Valley North,5,77408,892,78300,0,60,5,31728,76,97,12,31913,0.4075734355044699,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,22,Don Valley West,Don Valley West,9,74523,398,74921,0,44,5,36760,118,80,20,36978,0.4935598830768409,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,23,Dufferin-Caledon,Dufferin-Caledon,8,109942,288,110230,0,52,9,46127,111,88,47,46373,0.4206930962532885,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,24,Durham,Durham,7,112487,902,113389,0,57,5,49320,122,67,53,49562,0.4370970729083068,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,25,Eglinton-Lawrence,Eglinton-Lawrence,10,83626,887,84513,0,77,5,39258,115,90,22,39485,0.4672062286275484,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,26,Elgin-Middlesex-London,Elgin-Middlesex-London,8,97075,1251,98326,0,60,12,43791,102,93,41,44027,0.4477655960783516,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,27,Essex,Essex,7,101723,2125,103848,0,50,8,48780,130,83,32,49025,0.4720841999845928,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,28,Etobicoke Centre,Etobicoke Centre,8,93012,1012,94024,0,76,5,45351,120,130,44,45645,0.4854611588530587,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,29,Etobicoke-Lakeshore,Etobicoke-Lakeshore,7,105778,721,106499,0,67,5,47966,108,91,56,48221,0.4527835942121522,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,30,Etobicoke North,Etobicoke North,7,75388,-939,74449,0,33,5,25103,97,91,10,25301,0.3398433827183709,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,31,Flamborough-Glanbrook,Flamborough-Glanbrook,7,93210,993,94203,0,48,7,43951,121,61,60,44193,0.4691251870959523,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,32,Glengarry-Prescott-Russell,Glengarry-Prescott-Russell,6,97622,533,98155,0,90,9,44382,242,83,17,44724,0.4556466812694208,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,33,Guelph,Guelph,7,110992,155,111147,0,79,7,54638,127,83,50,54898,0.4939224630444366,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,34,Haldimand-Norfolk,Haldimand-Norfolk,9,93693,-243,93450,0,54,8,45427,126,76,50,45679,0.4888068485821294,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,35,Haliburton-Kawartha Lakes-Brock,Haliburton-Kawartha Lakes-Brock,7,101416,984,102400,0,85,13,48926,151,156,59,49292,0.4813671875,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,36,Hamilton Centre,Hamilton Centre,8,77781,-182,77599,0,48,5,29147,92,156,43,29438,0.3793605587700872,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,37,Hamilton East-Stoney Creek,Hamilton East-Stoney Creek,8,86774,190,86964,0,39,5,35166,166,216,67,35615,0.4095372797939377,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,38,Hamilton Mountain,Hamilton Mountain,6,82641,-123,82518,0,33,5,34034,67,92,41,34234,0.4148670593082721,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,39,Hamilton West-Ancaster-Dundas,Hamilton West-Ancaster-Dundas,6,92965,561,93526,0,78,5,45017,141,99,53,45310,0.4844642131599769,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,40,Hastings-Lennox and Addington,Hastings-Lennox and Addington,6,82031,-613,81418,0,75,14,38184,95,52,31,38362,0.4711734505883219,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,41,Humber River-Black Creek,Humber River-Black Creek,7,70673,-41,70632,0,47,5,23078,139,181,17,23415,0.3315069656812776,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,42,Huron-Bruce,Huron-Bruce,8,86559,531,87090,0,78,9,46892,129,74,74,47169,0.5416121253875301,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,43,Kanata-Carleton,Kanata-Carleton,6,88389,547,88936,0,49,5,45569,45,55,26,45695,0.5137964378879194,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,44,Kenora-Rainy River,Kenora-Rainy River,8,40231,294,40525,0,101,7,16059,51,164,20,16294,0.4020727945712523,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,45,King-Vaughan,King-Vaughan,7,101572,1772,103344,0,44,5,40897,118,93,17,41125,0.3979427930020126,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,46,Kingston and the Islands,Kingston and the Islands,9,104645,-44,104601,0,79,7,48749,108,106,35,48998,0.4684276440951807,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,47,Kitchener Centre,Kitchener Centre,5,84304,443,84747,0,58,5,38902,109,99,54,39164,0.4621284529245873,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,48,Kitchener-Conestoga,Kitchener-Conestoga,7,76692,687,77379,0,46,6,37589,91,57,86,37823,0.488801871308753,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,49,Kitchener South-Hespeler,Kitchener South-Hespeler,6,81506,944,82450,0,47,5,34496,121,99,46,34762,0.4216130988477865,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,50,Lambton-Kent-Middlesex,Lambton-Kent-Middlesex,7,90109,112,90221,0,68,9,42399,119,87,47,42652,0.4727502466166413,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,51,Lanark-Frontenac-Kingston,Lanark-Frontenac-Kingston,8,86072,2760,88832,0,77,13,44185,123,98,32,44438,0.5002476585014409,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,52,Leeds-Grenville-Thousand Islands and Rideau Lakes,Leeds-Grenville-Thousand Islands and Rideau Lakes,9,86459,919,87378,0,87,10,42744,138,53,36,42971,0.4917828286296321,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,53,London-Fanshawe,London-Fanshawe,9,94811,-469,94342,0,40,5,34260,113,87,28,34488,0.3655635877975875,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,54,London North Centre,London North Centre,8,103903,-1136,102767,0,77,5,43085,125,66,19,43295,0.4212928274640692,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,55,London West,London West,9,103410,-283,103127,0,59,6,49882,149,61,47,50139,0.4861869345564207,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,56,Markham-Stouffville,Markham-Stouffville,6,96810,1939,98749,0,45,6,43723,112,89,28,43952,0.4450880515245724,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,57,Markham-Thornhill,Markham-Thornhill,6,72345,288,72633,0,35,5,28699,57,52,12,28820,0.3967893381796153,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,58,Markham-Unionville,Markham-Unionville,6,89975,1122,91097,0,42,4,35422,64,138,14,35638,0.391209370231731,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,59,Milton,Milton,6,90533,1163,91696,0,37,5,38927,98,123,10,39158,0.4270415285290525,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,60,Mississauga Centre,Mississauga Centre,9,89129,89,89218,0,97,5,33758,162,96,13,34029,0.381414064426461,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,61,Mississauga East-Cooksville,Mississauga East-Cooksville,7,85958,61,86019,0,60,5,33828,120,75,27,34050,0.395842778920936,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,62,Mississauga-Erin Mills,Mississauga-Erin Mills,6,88733,1193,89926,0,44,5,37235,138,100,24,37497,0.4169761804150078,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,63,Mississauga-Lakeshore,Mississauga-Lakeshore,7,91907,-129,91778,0,55,5,42890,85,71,41,43087,0.4694698075791584,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,64,Mississauga-Malton,Mississauga-Malton,5,80022,37,80059,0,28,5,29023,83,110,17,29233,0.3651432068849223,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,65,Mississauga-Streetsville,Mississauga-Streetsville,8,88942,392,89334,0,29,4,37989,53,60,17,38119,0.4267020395370183,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,66,Nepean,Nepean,6,96076,-477,95599,0,46,5,43617,118,89,42,43866,0.458854172114771,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,67,Newmarket-Aurora,Newmarket-Aurora,7,93342,641,93983,0,55,5,41523,85,98,37,41743,0.4441547939520977,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,68,Niagara Centre,Niagara Centre,6,94966,493,95459,0,61,5,41208,85,67,42,41402,0.4337149980619952,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,69,Niagara Falls,Niagara Falls,7,115083,1088,116171,0,73,5,50344,161,97,51,50653,0.4360210379526732,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,70,Niagara West,Niagara West,8,78138,951,79089,0,61,7,41796,107,98,46,42047,0.531641568359696,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,71,Nickel Belt,Nickel Belt,6,68834,-976,67858,0,45,13,30747,74,45,18,30884,0.4551268826077986,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,72,Nipissing,Nipissing,8,64453,-460,63993,0,60,12,30659,123,106,12,30900,0.4828653133936524,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,73,Northumberland-Peterborough South,Northumberland-Peterborough South,6,99034,1754,100788,0,96,8,51871,158,57,43,52129,0.5172143509147914,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,74,Oakville,Oakville,9,92702,566,93268,0,73,4,46569,166,130,38,46903,0.5028841617703821,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,75,Oakville North-Burlington,Oakville North-Burlington,6,99002,2069,101071,0,38,5,47095,139,122,33,47389,0.4688684192300462,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,76,Orléans,Orléans,7,111075,585,111660,0,52,5,51839,98,63,24,52024,0.4659143829482357,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,77,Oshawa,Oshawa,6,103705,148,103853,0,44,5,40809,85,65,45,41004,0.3948273039777377,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,78,Ottawa Centre,Ottawa Centre,10,109977,486,110463,0,115,5,55781,116,113,37,56047,0.5073825624869865,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,79,Ottawa South,Ottawa South,8,95361,630,95991,0,63,5,40500,100,149,30,40779,0.4248210769759664,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,80,Ottawa-Vanier,Ottawa-Vanier,9,101657,-2883,98774,0,103,5,38673,134,89,40,38936,0.3941928037742725,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,81,Ottawa West-Nepean,Ottawa West-Nepean,5,91223,-1787,89436,0,65,5,41814,499,81,21,42415,0.4742497428328637,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,82,Oxford,Oxford,6,94368,1559,95927,0,57,8,44321,102,74,64,44561,0.4645303199307806,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,83,Parkdale-High Park,Parkdale-High Park,8,86295,-943,85352,0,57,5,42664,112,81,35,42892,0.5025306964101602,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,84,Parry Sound-Muskoka,Parry Sound-Muskoka,7,82580,1700,84280,0,85,11,44558,73,73,41,44745,0.5309088751779781,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,85,Perth-Wellington,Perth-Wellington,7,83638,-141,83497,0,52,9,41597,90,78,61,41826,0.5009281770602536,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,86,Peterborough-Kawartha,Peterborough-Kawartha,6,103171,-1008,102163,0,85,8,52373,88,65,53,52579,0.5146579485723795,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,87,Pickering-Uxbridge,Pickering-Uxbridge,8,95468,696,96164,0,50,5,43232,221,75,25,43553,0.4529033734037685,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,88,Renfrew-Nipissing-Pembroke,Renfrew-Nipissing-Pembroke,7,85768,1575,87343,0,88,10,40188,112,87,40,40427,0.4628533482935094,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,89,Richmond Hill,Richmond Hill,7,85148,677,85825,0,64,5,30796,92,107,23,31018,0.3614098456160792,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,90,St. Catharines,St. Catharines,9,93002,-78,92924,0,52,6,43136,140,55,29,43360,0.466617881279325,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,91,Sarnia-Lambton,Sarnia-Lambton,7,86320,415,86735,0,69,8,40181,125,115,75,40496,0.4668934109644318,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,92,Sault Ste. Marie,Sault Ste. Marie,6,60818,-70,60748,0,54,6,26884,74,51,18,27027,0.4449035359188779,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,93,Scarborough-Agincourt,Scarborough-Agincourt,6,72891,141,73032,0,40,4,28636,73,75,11,28795,0.3942792200679154,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,94,Scarborough Centre,Scarborough Centre,10,77114,744,77858,0,76,5,31869,120,110,21,32120,0.4125459169256852,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,95,Scarborough-Guildwood,Scarborough-Guildwood,7,69754,399,70153,0,62,5,28949,121,106,29,29205,0.4163043633201716,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,96,Scarborough North,Scarborough North,7,66444,588,67032,0,40,5,26177,60,75,6,26318,0.3926184508891275,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,97,Scarborough-Rouge Park,Scarborough-Rouge Park,7,77916,651,78567,0,37,5,35312,51,70,14,35447,0.4511690658928048,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,98,Scarborough Southwest,Scarborough Southwest,8,79624,598,80222,0,51,5,35326,94,131,22,35573,0.4434319762658622,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,99,Simcoe-Grey,Simcoe-Grey,7,120499,1614,122113,0,55,9,52886,95,108,52,53141,0.4351788916822942,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,100,Simcoe North,Simcoe North,7,101053,-516,100537,0,65,9,46265,113,57,58,46493,0.4624466614281309,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,101,Spadina-Fort York,Spadina-Fort York,6,99325,-105,99220,0,33,5,33857,130,71,29,34087,0.3435496875629913,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,102,Stormont-Dundas-South Glengarry,Stormont-Dundas-South Glengarry,6,87489,-226,87263,0,77,8,36114,124,67,23,36328,0.4163047339651398,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,103,Sudbury,Sudbury,8,68036,-1642,66394,0,83,6,29410,124,50,29,29613,0.4460192186040907,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,104,Thornhill,Thornhill,11,87082,231,87313,0,56,4,34522,159,115,24,34820,0.3987951393263317,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,105,Thunder Bay-Atikokan,Thunder Bay-Atikokan,7,61879,228,62107,0,66,7,26598,77,49,37,26761,0.4308854074419952,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,106,Thunder Bay-Superior North,Thunder Bay-Superior North,8,57378,-26,57352,0,79,11,24634,78,63,24,24799,0.4323999163063188,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,107,Timiskaming-Cochrane,Timiskaming-Cochrane,8,52988,842,53830,0,71,11,22779,105,29,23,22936,0.4260821103473899,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,108,Timmins,Timmins,5,33345,41,33386,0,22,5,14437,66,26,6,14535,0.4353621278380159,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,109,Toronto Centre,Toronto Centre,8,88307,-39,88268,0,63,6,34921,105,105,14,35145,0.3981624144650382,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,110,Toronto-Danforth,Toronto-Danforth,8,83888,197,84085,0,39,4,41324,139,70,35,41568,0.4943569007551882,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,111,Toronto-St. Paul's,Toronto-St. Paul's,8,88350,74,88424,0,45,5,42179,230,79,19,42507,0.4807179046412738,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,112,University-Rosedale,University-Rosedale,6,86192,308,86500,0,70,5,37181,94,77,18,37370,0.4320231213872832,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,113,Vaughan-Woodbridge,Vaughan-Woodbridge,8,81090,1125,82215,0,33,5,35958,122,109,11,36200,0.4403089460560724,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,114,Waterloo,Waterloo,8,93522,-287,93235,0,58,5,44922,96,52,68,45138,0.4841314956829516,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,115,Wellington-Halton Hills,Wellington-Halton Hills,6,102933,-22,102911,0,49,8,49493,120,130,44,49787,0.4837869615492998,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,116,Whitby,Whitby,8,101835,1474,103309,0,57,4,46104,148,91,23,46366,0.4488089130666253,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,117,Willowdale,Willowdale,11,79541,401,79942,0,101,5,31583,99,116,47,31845,0.3983513046959045,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,118,Windsor-Tecumseh,Windsor-Tecumseh,10,94976,512,95488,0,64,5,38551,126,62,40,38779,0.4061138572386058,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,119,Windsor West,Windsor West,6,94977,318,95295,0,66,4,31752,131,141,15,32039,0.3362086153523269,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,120,York Centre,York Centre,9,72576,525,73101,0,67,5,28128,171,85,83,28467,0.3894201173718553,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,121,York-Simcoe,York-Simcoe,8,93376,948,94324,0,44,6,36628,76,68,19,36791,0.3900491921462194,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,122,York South-Weston,York South-Weston,7,80336,231,80567,0,68,5,30432,162,90,19,30703,0.3810865490833716,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,123,Kiiwetinoong,Kiiwetinoong,5,15775,7,15782,0,40,11,4763,13,13,9,4798,0.3040172348244835,2022
+2022 Provincial General Election_10_27_2022,Élection générale provinciale de 2022_10_27_2022,2022-Jun-02,124,Mushkegowuk-James Bay,Mushkegowuk-James Bay,6,18639,-156,18483,0,25,8,7255,23,5,0,7283,0.3940377644321809,2022

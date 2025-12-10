@@ -11,7 +11,7 @@ venv/
 *.env
 
 # --- Streamlit cache ---
-.streamlit/
+# .streamlit/
 
 # --- OS files ---
 .DS_Store
@@ -19,17 +19,6 @@ Thumbs.db
 
 # --- VS Code ---
 .vscode/
-
-# --- Data files ---
-data/**/*.csv
-data/**/*.gpkg
-data/**/*.shp
-data/**/*.dbf
-data/**/*.shx
-data/**/*.prj
-data/**/*.sbn
-data/**/*.sbx
-data/**/*.cpg
 
 # --- Logs ---
 *.log
